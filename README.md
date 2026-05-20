@@ -1,1 +1,1 @@
-# Mod-lisation-de-la-s-v-rit-des-sinistres-en-r-assurance
+# Modelisation-de-la-severite-des-sinistres-en-reassurance
